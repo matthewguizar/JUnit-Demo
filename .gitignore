@@ -1,0 +1,6 @@
+/out
+/gettingstartedjunit5.iml
+/.idea
+/test/patientintake/*.class
+/src/patientintake/*.class
+*iml
